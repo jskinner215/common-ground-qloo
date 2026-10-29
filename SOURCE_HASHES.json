@@ -1,0 +1,133 @@
+{
+  "files": {
+    "LICENSE": {
+      "bytes": 1071,
+      "sha256": "37aac3ce6c7253e99a51abcffd2fcbfb6750cb6fc560483cc4e51d86efc18703"
+    },
+    "NOTICE": {
+      "bytes": 715,
+      "sha256": "ef60ace27a3180d469677f2d2cd075e2b2679147af61627d96eb759a3c6203dd"
+    },
+    "OFFICIAL_SOURCE_LOCK.json": {
+      "bytes": 230058,
+      "sha256": "71da13c95e3305567173d7a283ff2b41eb13f723913f50706d4f9209c53e6283"
+    },
+    "RUNTIME_LOCK.json": {
+      "bytes": 163228,
+      "sha256": "0471f0c18181531f4656b73c60ada00d4529e914d8fe4454bff036a7637b9cc0"
+    },
+    "SDK_CLOSURE.json": {
+      "bytes": 407899,
+      "sha256": "ccb3c583a9bf9ffeafaa73e19e19e5941b92cc1da56687025a4f01c3df34817a"
+    },
+    "THIRD_PARTY_LICENSES.json": {
+      "bytes": 419,
+      "sha256": "30dfa890d0f850687396f66636af4efbe5644b59fdaa20787b5c5a62bc61d3d3"
+    },
+    "async_host.py": {
+      "bytes": 12474,
+      "sha256": "b6063f3a5f0a26c07139fd43ab67a756cd1f50d04fdfc8fd3973e5998f79a9fd"
+    },
+    "bridge.py": {
+      "bytes": 15961,
+      "sha256": "870c566a9f613a1d49183cb7c6764cea283e7fae521f82d837b6d83896240d89"
+    },
+    "client.js": {
+      "bytes": 9262,
+      "sha256": "59694856e6a478e66178ab2176ea43e078c822636d00a70e6ecf17fd018a7caa"
+    },
+    "compact_confirmation.py": {
+      "bytes": 13618,
+      "sha256": "2f24aa794f0538146364829a56a20b18bd3e47ea8d04a4207191523673fa42b5"
+    },
+    "confirmation_store.py": {
+      "bytes": 12023,
+      "sha256": "d02325286a9e11d90b937d72a8f94292d72a670e6987a069c8a156cdfe879f5d"
+    },
+    "control_guard.py": {
+      "bytes": 3247,
+      "sha256": "08049e6bfd8fe2381f7ac31fb9f3f1f9644e445e37c064a25be13d0f3781b3ee"
+    },
+    "deadline_quota.py": {
+      "bytes": 3084,
+      "sha256": "357189dcf86be34855caaac5df94079ed1e5c6246e2e879008cac556f24e6082"
+    },
+    "dynamodb_confirmation_store.py": {
+      "bytes": 19943,
+      "sha256": "fa9ca50cdbac3761ebbdad122b900990e34c03c10b576b6962fce76739113c1b"
+    },
+    "edge_base.py": {
+      "bytes": 22097,
+      "sha256": "1dfa6e73d3d0f5cc0fcc3b6283619fa78b5fb2c68a83aee8a52a41f44c7453d3"
+    },
+    "global_quota_v2.py": {
+      "bytes": 21622,
+      "sha256": "e3411aa54611dc999328b1c8455121118d3be9df65e3d8aa9ed8f4e94c71927f"
+    },
+    "harness_contract.py": {
+      "bytes": 28218,
+      "sha256": "d469bb12b2bdc621ebe70ca9ac370a99c451ecf5a39e70ce99670bc8743d8e8c"
+    },
+    "index.html": {
+      "bytes": 15179,
+      "sha256": "7c568937fef9796038b52d26b794a649c6b0b65a67c64ab0ade64873a61d340e"
+    },
+    "official_bridge.py": {
+      "bytes": 2173,
+      "sha256": "159788364a90a5a0bb70ba29d13704aacf13e47d4b95aacc45472d4139f70759"
+    },
+    "official_factory_child.mjs": {
+      "bytes": 7905,
+      "sha256": "5cf32da53479b36bf339963a9f80d6c83ff5fa796ff6925d320c5b135adf677c"
+    },
+    "paid_entitlement.py": {
+      "bytes": 4343,
+      "sha256": "252207edc99f57b7204f193f2e7a600c5d4eb75435216295d6d18346e97d001d"
+    },
+    "production_bootstrap.py": {
+      "bytes": 14822,
+      "sha256": "20f1e6e612bd9e600805b45d5561dcb86229bafc4b057bdd176c0d023bf92f23"
+    },
+    "public_paid_entitlement.py": {
+      "bytes": 3760,
+      "sha256": "6221f6a01146202c08d94603ed1c15174977bbd8e3232e7910f3062dd716ad76"
+    },
+    "qloo_composition.py": {
+      "bytes": 19736,
+      "sha256": "df5d72f229e573caaa8c86ab4356678fdd1ed1b28212d111f302d95c881c3f07"
+    },
+    "qloo_http.py": {
+      "bytes": 11312,
+      "sha256": "4cbb38d19a54adb5262769ce8632c04199fd7f4d5362d2aa659a5cbeaeeb5e70"
+    },
+    "review_fence.py": {
+      "bytes": 2568,
+      "sha256": "3db498728f0b989d7c4b12ebaf18315165d697856f2d5fdab9102c3c93b9655b"
+    },
+    "runtime_bootstrap.py": {
+      "bytes": 15909,
+      "sha256": "b70ac2cf1f76c15616fc24d1cea7badc07710f8753ad84855e26207baf4b095a"
+    },
+    "sdk_guard.py": {
+      "bytes": 3660,
+      "sha256": "89c92b454d2dedd98fe09e0a9edec26229a51e13851d7d6958aac7331731548b"
+    },
+    "typed_tools.py": {
+      "bytes": 5999,
+      "sha256": "f19da584bf9e7b97a9903a2f8ab229b10e46c99a6aab94618c2b28602c067495"
+    },
+    "v2_binding.py": {
+      "bytes": 8059,
+      "sha256": "e0c5d4012f1332c66902c56a8e155241b6b4f70a97ee4ede7dafdd69763d8968"
+    },
+    "workflow.py": {
+      "bytes": 9249,
+      "sha256": "3d4b2b2bc1d415128058e8fb58341310b07f5525049c9bc6b2003243ee3dda8f"
+    }
+  },
+  "packagingChanges": [
+    "Qloo private note members removed and runtime lock regenerated"
+  ],
+  "runtimeCodeChanged": false,
+  "schema": "public-own-source-v2"
+}
